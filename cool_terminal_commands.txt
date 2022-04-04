@@ -1,0 +1,14 @@
+Cool terminal comands
+
+1. sl (Not to be confused with ls) make train go brrrrr
+2. mplayer -vo caca (insert video) make video in terminal with text
+3. cowsay (write something here) make a cow say smth
+4. fortune | cowsay  (fortune, displays qoutes, jokes, funny predictions or even poetry) make cow say <--
+5. oneko, i swear if you open it with the app i will kill you, makes a cat follow your cursor, full vid in Downloads/oneko_vid
+6. tetris, it's suprisingly fun 
+7. pacman4console, &&&&     C....
+8. toilet -f mono12 -F metal(or gay) EPIC
+9. fortune | toilet -f mono12 -F metal(or gay), makes a toilet with fortune
+10. hollywood, USE AT YOUR OWN RISK! 100% CPU USAGE ON ALL CORES AND 80°C+ TEMPAURATURE!!!(full disconnect required)
+11. nethack, a game in terminal made by a guy
+12. bash ISObash, another game made by ^
